@@ -22,8 +22,8 @@ subtitle                 : # site tagline that appears below site title in masth
 description              : >- # this means to ignore newlines until "baseurl:"
   A personal note by Dr Han-Teng Liao on how technology management 
   face geopolitical, demographic and environmental challenges.
-baseurl                  : # the subpath of your site, e.g. "/blog"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/ping" # the subpath of your site, e.g. "/blog"
+url                      : "https://oxfordroadmap.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/640×427.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
