@@ -17,6 +17,10 @@ tags:
 
 ## How can we collaborate on a Technology Roadmap?
 
+### How can we leverage data visualization and data analaytics?
+
+Examples such as [World Happiness Report 2022](https://oxfordroadmap.github.io/ping/_pages/WHR%202022-Figure%202.1_with_worldmap.htm) and [Human Freedom Index](https://oxfordroadmap.github.io/ping/_pages/HRI_human-freedom-index-2022_with_worldmap.htm) illustrate the need to gather the ground truths and best practices to answer the questions: do technology use and technology accepatance matter? For whom and what?  How so?
+
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
