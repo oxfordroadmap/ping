@@ -2,7 +2,7 @@
 header: 
   teaser: "assets/images/640×427.jpg"
   feature: "assets/images/640×427.jpg"
-title: "Welcome to Oxford Roadmapping!"
+title: "Welcome to Oxford Roadmapping! 欢迎来到牛津路线图"
 date: 2023-02-18T15:34:30-04:00
 categories:
   - blog
@@ -13,7 +13,7 @@ tags:
 
 ## Why Roadmapping?
 
-![](assets/images/640×427.jpg)
+![](https://oxfordroadmap.github.io/ping/assets/images/640×427.jpg)
 
 ## How can we collaborate on a Technology Roadmap?
 
