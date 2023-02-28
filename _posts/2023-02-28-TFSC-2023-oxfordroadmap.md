@@ -48,7 +48,7 @@ Web: [https://ctm.site.nthu.edu.tw/index.php](https://ctm.site.nthu.edu.tw/inde
 
 ## 牛津路线图与高校影响力研究中心徵求合作互助夥伴
 
-牛津路线图与高校影响力研究中心认为TFSC 2023及其多个SCIE丶TSSCI合作的期刊提供了很好的平台，可以收集和展示最新进展的最新全球研究。
+牛津路线图与高校影响力研究中心认为TFSC 2023及其多个SCIE丶TSSCI合作的期刊提供了很好的平台，收集和展示全球研究的最新进展。
 
 ### 课题合作
 

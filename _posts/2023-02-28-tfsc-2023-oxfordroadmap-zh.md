@@ -48,11 +48,11 @@ Web: [https://ctm.site.nthu.edu.tw/index.php](https://ctm.site.nthu.edu.tw/inde
 
 ## 牛津路線圖與高校影響力研究中心徵求合作互助夥伴
 
-牛津路線圖與高校影響力研究中心認為TFSC 2023及其多個SCIE、TSSCI合作的期刊提供了很好的平台，可以收集和展示最新進展的最新全球研究。
+牛津路線圖與高校影響力研究中心認為TFSC 2023及其多個SCIE、TSSCI合作的期刊提供了很好的平台，收集和展示全球研究的最新進展。
 
-### 課題合作
+### 議題合作
 
-牛津路線圖與高校影響力研究中心正針對以下課題展開合作：
+牛津路線圖與高校影響力研究中心正針對以下議題展開合作：
 
 * 「未來碳中和管理服務平台」(基於ITU綠色數字化轉型標准、含[中國碳核算數據庫](https://www.ceads.net.cn/)（CEADs）[投入產出表](https://www.ceads.net.cn/data/input_output_tables/)及相關行業及地方清單研究)
 * 「未來雙碳信息流與供應鏈」(含E-liability、智能港口信息對接供應鏈金融平台)
