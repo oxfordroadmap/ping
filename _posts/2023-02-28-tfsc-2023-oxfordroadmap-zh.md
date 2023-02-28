@@ -59,7 +59,7 @@ Web: [https://ctm.site.nthu.edu.tw/index.php](https://ctm.site.nthu.edu.tw/inde
 * 「未來碳核算科技與金融科技」(含E-liability、智能港口信息對接供應鏈金融平台)
 
 > 關於以上課題或延伸課題，詳細討論及交流可加入由牛津路線圖與高校影響力研究中心組織的 TFSC 2023 Line 群 (掃下方QR碼) 。近3個月發表的論文請參閱本文結尾。
-> ![TFSC-2023_OR_group_line.jpg (1052×1240) (oxfordroadmap.github.io)](https://oxfordroadmap.github.io/ping/assets/images/groups/TFSC-2023_OR_group_line.jpg)
+> ![TFSC-2023_OR_group_line.jpg (1052×1240) (oxfordroadmap.github.io)](https://oxfordroadmap.github.io/ping/assets/images/groups/TFSC-2023_OR_group_line.jpeg)
 
 
 ### 方法及數據合作
@@ -72,7 +72,7 @@ Web: [https://ctm.site.nthu.edu.tw/index.php](https://ctm.site.nthu.edu.tw/inde
 牛津路線圖與高校影響力研究中心將於3-4月舉辦線上或線下的閉門或開放工作坊，結合技術路線圖及文獻計量學的兩方法，作為TFSC 2023 技術和新地緣政治的創新方法選項之一。
 
 > 關於以上方法及數據，詳細討論及交流可加入由牛津路線圖與高校影響力研究中心組織的 TFSC 2023 Line 群 (掃下方QR碼) 。近3個月發表的論文請參閱本文結尾。
-> ![TFSC-2023_OR_group_line.jpg (1052×1240) (oxfordroadmap.github.io)](https://oxfordroadmap.github.io/ping/assets/images/groups/TFSC-2023_OR_group_line.jpg)
+> ![TFSC-2023_OR_group_line.jpg (1052×1240) (oxfordroadmap.github.io)](https://oxfordroadmap.github.io/ping/assets/images/groups/TFSC-2023_OR_group_line.jpeg)
 
 
 -----
