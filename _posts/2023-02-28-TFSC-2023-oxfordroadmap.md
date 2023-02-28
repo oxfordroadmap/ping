@@ -2,7 +2,7 @@
 header: 
   teaser: "https://oxfordroadmap.github.io/ping/assets/images/640×427.jpg"
   feature: "https://oxfordroadmap.github.io/ping/assets/images/640×427.jpg"
-title: "TFSC-2023-oxfordroadmap"
+title: "《Technological Forecasting & Social Change》(TFSC) 公开徵稿 -- 牛津路线图与高校影响力研究中心徵求合作互助夥伴"
 date: 2023-02-28T00:30:30-04:00
 categories:
   - blog
