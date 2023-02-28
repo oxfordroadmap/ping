@@ -71,7 +71,7 @@ Web: [https://ctm.site.nthu.edu.tw/index.php](https://ctm.site.nthu.edu.tw/inde
 
 牛津路线图与高校影响力研究中心将于3-4月举办线上或线下的闭门或开放工作坊，结合技术路线图及文献计量学的两方法，作为TFSC 2023 技术和新地缘政治的创新方法选项之一。
 
-> 关于以上课题或延伸课题，详细讨论及交流可加入由牛津路线图与高校影响力研究中心组织的 TFSC 2023 群 (扫下方QR码) 。近3个月发表的论文请参阅本文结尾。
+> 关于以上方法及数据合作，详细讨论及交流可加入由牛津路线图与高校影响力研究中心组织的 TFSC 2023 群 (扫下方QR码) 。近3个月发表的论文请参阅本文结尾。
 > ![TFSC-2023_OR_group_wechat.jpg (1052×1240) (oxfordroadmap.github.io)](https://oxfordroadmap.github.io/ping/assets/images/groups/TFSC-2023_OR_group_wechat.jpg)
 
 
