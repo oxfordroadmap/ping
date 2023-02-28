@@ -59,6 +59,7 @@ Web: [https://ctm.site.nthu.edu.tw/index.php](https://ctm.site.nthu.edu.tw/inde
 * 「未来碳核算科技与金融科技」(含E-liability丶智能港口信息对接供应链金融平台)
 
 > 关于以上课题或延伸课题，详细讨论及交流可加入[XXX群]。近3个月发表的论文请参阅本文结尾。
+> ![](assets/images/TFSC-2023_OR_group_wechat.jpg)
 
 ### 方法及数据合作
 
