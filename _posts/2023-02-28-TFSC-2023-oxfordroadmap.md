@@ -3,7 +3,7 @@ header:
   teaser: "https://oxfordroadmap.github.io/ping/assets/images/640×427.jpg"
   feature: "https://oxfordroadmap.github.io/ping/assets/images/640×427.jpg"
 title: "TFSC-2023-oxfordroadmap"
-date: 2023-02-28T15:30:30-04:00
+date: 2023-02-28T00:30:30-04:00
 categories:
   - blog
 tags:
