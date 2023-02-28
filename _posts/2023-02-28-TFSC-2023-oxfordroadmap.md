@@ -2,7 +2,7 @@
 header: 
   teaser: "https://oxfordroadmap.github.io/ping/assets/images/640×427.jpg"
   feature: "https://oxfordroadmap.github.io/ping/assets/images/640×427.jpg"
-title: "《Technological Forecasting & Social Change》(TFSC) 公开徵稿 -- 牛津路线图与高校影响力研究中心徵求合作互助夥伴"
+title: "《Technological Forecasting & Social Change》(TFSC) 公开徵稿"
 date: 2023-02-28T00:30:30-04:00
 categories:
   - blog
@@ -14,7 +14,7 @@ tags:
   - open science
 ---
 
-## 《Technological Forecasting & Social Change》(TFSC) 公开徵稿 -- 牛津路线图与高校影响力研究中心徵求合作互助夥伴
+### 牛津路线图与高校影响力研究中心徵求合作互助夥伴
 
 JCR分区Q1期刊《Technological Forecasting & Social Change》(TFSC) 年度会议[TFSC 2023](https://www.tfsc2023.org/)已公开徵稿，会议有多项中英文论文交流及发表机会。牛津路线图 (Oxford Roadmapping) 与高校影响力研究中心 (GDT) 正展开合作，并徵求合作互助夥伴，共创管理技术与社会創新成果。
 
