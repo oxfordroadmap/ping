@@ -28,7 +28,7 @@ TFSC 2023是TFSC自创刊以来首次在亚洲举行的特别会议。随着社�
 1. 【SSCI, JCR 1 区, 期刊影响因子2021 10.884】[Technological Forecasting and Social Change](https://www.tfsc2023.org/SI_CFP.docx?t=20230228134050)
 2. 【SSCI, JCR 1 区, 期刊影响因子2021 8.689】 [Journal of Knowledge Management](https://www.emeraldgrouppublishing.com/journal/jkm#aims-and-scope)
 3. 【SSCI, JCR 3 区】[Asian Journal of Technology Innovation](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rajt20)
-4. 【Scopus, EI,  [SJR 1区 (scimagojr.com)](https://www.scimagojr.com/journalsearch.php?q=29780&tip=sid) 】 [IEEE Engineering Management Review](https://www.ieee-tems.org/ieee-engineering-management-review/)
+4. 【Scopus, EI,  [SJR 1区](https://www.scimagojr.com/journalsearch.php?q=29780&tip=sid) 】 [IEEE Engineering Management Review](https://www.ieee-tems.org/ieee-engineering-management-review/)
 5. 【SSCI, JCR 1 区, 期刊影响因子2021 11.219】[Journal of Innovation & Knowledge](https://www.sciencedirect.com/journal/journal-of-innovation-and-knowledge)
 6. 【SSCI, JCR 2 区】[Economic Research-Ekonomska Istraživanja](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=rero20)
 7. 【TSSCI, 中文】 [產業與管理論壇](https://www.tfsc2023.org/IMF_SI.docx)
