@@ -3,7 +3,7 @@ header:
   teaser: 
   feature: 
 title: "国自然技术路线图要怎麽画？先看IEEE技术路线图及 剑桥学派的成品及工具后，问自己关键问题就能有答案。"
-date: 2023-03-01T00:30:30-04:00
+date: 2023-02-28T20:30:30-04:00
 categories:
   - blog
 tags:
