@@ -45,6 +45,8 @@ tags:
 
 IEEE 第一个技术路线图是在1990年代为半导体行业创建的，根据IEEE引用 半导体资深人士兼IEEE技术路线图委员会主席Rakesh Kumar的说法。显见技术路线图对行业发展指明发展的必要性 ( 见 [IEEE 技术路线图指南](https://roadmaps.ieee.org/guide-to-technology-roadmaps)) 。
 
+半导体国際技术路线图例子如 [International Technology Roadmap for Semiconductors Reports (ITRS2)](http://www.itrs2.net/itrs-reports.html) 。
+
 根据其IEEE技术路线 [自我介绍的网页](https://roadmaps.ieee.org/about)的定义：
 
 > 技术路线图的目的是促进全行业的对话，以全面协调意见的方式，来解决新兴技术开发和实施的诸多方面和挑战。技术路线图的制定由来自行业丶政府和学术界专家参与，旨在通过以技术为中心的路线图制定和关键时间表，来帮助指导运营商丶监管机构丶制造商丶研究人员和其他参与开发这些新技术生态系统的利益相关方。
@@ -52,6 +54,9 @@ IEEE 第一个技术路线图是在1990年代为半导体行业创建的，根�
 > IEEE将关键的行业，政府和学术界成员聚集在一起，以促进对技术发展的整体看法，发挥具有根本性和关键性的角色及作用。
 
 不同于产品的路线图 (product roadmap)，IEEE强调其技术路线图工作是以行业为范围及思考单元的，这也引导了其技术丶标准丶及研究的交流及工作。
+
+![](https://irds.ieee.org/images/files/carousel/irds-roadmap_2022.jpg)
+> IEEE IRDS 设备与系统技术路线图报告
 
 更多内容请参考 [IEEE 技术路线图指南](https://roadmaps.ieee.org/guide-to-technology-roadmaps)的说明及指引。
 
